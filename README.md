@@ -20,8 +20,8 @@ End the program
 ## PROGRAM:
 ```python
 #Program to swap two values.
-#Developed by: pavithran
-#RegisterNumber:23001643
+#Developed by: Manogaran s
+#RegisterNumber:23004448
 num1,num2=float(input()),float(input())
 tep=num1
 num1=num2
